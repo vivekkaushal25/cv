@@ -1,0 +1,219 @@
+body{
+  text-align: center;
+  margin: 0 0 0 0;
+}
+
+/* Navbar */
+.navlist{
+  font-family: Montserrat;
+  font-weight: 600;
+}
+.brand{
+  font-family: Montserrat;
+  font-weight: 800;
+}
+
+
+
+/* BIO*/
+#BIO{
+  height: 30rem;
+  padding: 50px 0 50px 0;
+ background-color: #000;
+
+  background-size: cover;
+  background-repeat: no-repeat;
+  opacity: 0.8;
+}
+.bioheading{
+  font-family: Montserrat;
+  margin-top: 4rem;
+  font-weight: 600;
+  line-height: 1.5;
+
+  color: #fff;
+}
+
+
+hr{
+  color: #ef8172;
+  padding-bottom: 35px;
+  width: 10%;
+  border-width: 3px;
+}
+
+.paraheading{
+  font-weight: 600;
+  color: #fff;
+  opacity: 0.7;
+}
+
+/* ABOUT */
+
+#ABOUT{
+  background-color: #87CEEB;
+  text-align: center;
+}
+.about{
+  text-align: center;
+}
+.aboutheading{
+  padding-top: 5rem;
+    font-weight: 300;
+    color: #fff;
+}
+.aboutit{
+  font-weight: 500;
+}
+.abouthr{
+  padding-bottom: 0;
+}
+.aboutp{
+  text-align: center;
+  padding: 1% 20% 10% 20%;
+    color: #fff;
+    font-weight: 200;
+}
+/* HOBBIES */
+
+#HOBBIES{
+  padding: 50px 0 50px 0;
+  color: #000;
+}
+.hobbiesheading{
+  margin-bottom: 15px;
+  font-weight: 300;
+  }
+
+  .icons{
+    color: #87CEEB;
+padding-bottom: 1rem;
+  }
+  .icons:hover{
+    color: #4682B4;
+  }
+
+  h2{
+    font-family: Nanum Myeongjo-400;
+  }
+  .boldit{
+    font-weight: bold;
+  }
+
+  /* SKILLS */
+
+  #SKILLS{
+    padding: 3% 0;
+    color: #000;
+
+  }
+  .skills{
+    height: 21rem;
+  }
+ .web-development{
+   background-image: url("https://static.vecteezy.com/system/resources/previews/000/523/378/non_2x/web-development-application-design-coding-and-programming-on-laptop-and-smartphone-concept-with-programming-language-and-program-code-and-layout-on-screen-vector.jpg");
+   background-size: cover;
+   background-repeat: no-repeat;
+   height: 19.5rem;
+
+ }
+
+ .webd{
+   color: #fff;
+   padding-top: 2%;
+ }
+ .webdp{
+   color: #fff;
+ }
+ .skill:hover{
+    margin: 12px 12px 12px 12px;
+ }
+ .Competitive-Programming{
+   background-image: url("https://i.itworldcanada.com/wp-content/uploads/2021/02/fun-code-developer-development-feature-software-2.jpg");
+   background-size: cover;
+   background-repeat: no-repeat;
+   height: 19.5rem;
+ }
+ .CP{
+    color: #000;
+    padding-top: 2%;
+ }
+ .cpp{
+   font-weight: 500;
+ }
+
+ .Flutter{
+   background-image:url("https://kodytechnolab.com/img/blog/big/flutter-for-cross-platform-app-development.jpg");
+   background-size: cover;
+   background-repeat: no-repeat;
+   height: 19.5rem;
+ }
+
+ .C{
+   background-image: url("https://blog.eduonix.com/wp-content/uploads/2016/02/c.jpg");
+   background-size: cover;
+   background-repeat: no-repeat;
+   height: 19.5rem;
+ }
+
+
+ /* CONTACT */
+
+#CONTACT{
+  padding-bottom: 2rem;
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
+.bottom-icon{
+  margin: 0 1rem;
+}
+
+.twitter:hover{
+  color:#00B6F1;
+}
+.gmail:hover{
+  color: #e60000;
+}
+.insta:hover{
+color: rgb(204, 0, 204);
+}
+.github:hover{
+color:#040204;
+}
+.linkedin:hover{
+color:#04669A;
+}
+
+.copyright{
+  padding-top: 3rem;
+  color: grey;
+}
+/* Contact Me page */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ /* icon */
+
+/* <i class=url("https://www.ariglobalsolutions.com/wp-content/uploads/2018/10/shutterstock_1128653108.png");*/
+/* <i class="fab fa-facebook"></i>     facebook */
+/* <i class="fab fa-linkedin"></i>     linkedin */
+/* <i class="fab fa-github"></i>          github */
+/* <i class="fab fa-twitter-square"></i>   twitter */
